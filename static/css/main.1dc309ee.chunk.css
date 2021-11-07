@@ -1,0 +1,2 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;900&display=swap);html{height:100%}*{margin:0;padding:0;box-sizing:border-box}body{min-height:100%;padding-bottom:60px;display:flex;flex-direction:column}body,code{font-family:"Poppins",sans-serif}.mainNote{display:flex;justify-content:center;align-items:center}form{display:flex;flex-direction:column}button{top:26px}.del,button{position:relative;z-index:3;background-color:#fff}.del{top:30px;cursor:pointer}div{display:block}footer{margin-top:auto}
+/*# sourceMappingURL=main.1dc309ee.chunk.css.map */
